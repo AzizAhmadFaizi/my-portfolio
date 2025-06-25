@@ -11,6 +11,7 @@ export const metadata: Metadata = {
   description: "Modern & Minimal JS Mastery Portfolio",
 };
 
+
 export default function RootLayout({
   children,
 }: Readonly<{
